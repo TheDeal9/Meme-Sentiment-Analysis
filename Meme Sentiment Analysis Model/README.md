@@ -1,2 +1,2 @@
 # Meme-Sentiment-Analysis
-A Concatenated Model which uses Resnet50 and VGG16 for Image Classification and Bert Model for NLP.
+A Model that convolutes Resnet50 and VGG16 for image classification, and Bert for natural language processing.
